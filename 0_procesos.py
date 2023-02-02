@@ -4,6 +4,7 @@
 Created on Thu Feb  2 09:16:23 2023
 
 @author: Ezquerro
+@author: Cristina y Alvaro
 """
 
 from time import sleep
