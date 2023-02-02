@@ -3,7 +3,7 @@
 """
 Created on Thu Feb  2 09:16:23 2023
 
-@author: Alvaro
+@author: Ezquerro
 """
 
 from time import sleep
